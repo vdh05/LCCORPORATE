@@ -1,0 +1,32 @@
+[
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "price": 10.99,
+        "publishedDate": "1925-04-10"
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "price": 7.99,
+        "publishedDate": "1960-07-11"
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "price": 8.99,
+        "publishedDate": "1949-06-08"
+    },
+    {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "price": 6.99,
+        "publishedDate": "1813-01-28"
+    },
+    {
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "price": 9.99,
+        "publishedDate": "1951-07-16"
+    }
+]

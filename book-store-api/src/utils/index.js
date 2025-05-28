@@ -1,0 +1,1 @@
+// This file can contain utility functions that are used across the application.
