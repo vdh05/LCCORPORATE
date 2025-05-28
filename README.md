@@ -32,3 +32,11 @@ This is a simple RESTful API for managing a collection of books using **Node.js*
   price: Number (required),
   publishedDate: Date (required)
 }
+🚀 API Endpoints
+Method	Endpoint	Description
+GET	/books	Get all books
+GET	/books/:id	Get a book by ID
+POST	/books	Add a new book
+PUT	/books/:id	Update an existing book by ID
+DELETE	/books/:id	Delete a book by ID
+
